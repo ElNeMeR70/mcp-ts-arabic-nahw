@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-arabic-nahw",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_arabic_nahw",
+      "description": "Execute arabic-nahw MCP tool"
+    }
+  ]
+}
